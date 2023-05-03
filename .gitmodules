@@ -1,0 +1,9 @@
+[submodule "aman/themes/ananke"]
+	path = aman/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "aman/themes/casper"]
+	path = aman/themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper
+[submodule "aman/themes/hugo-coder"]
+	path = aman/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
