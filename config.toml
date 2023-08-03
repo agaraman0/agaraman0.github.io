@@ -65,8 +65,12 @@ style = "github-dark"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "content/"
 [[menu.main]]
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Diagram Magix"
+  weight = 3
+  url = "https://devf.in/"
